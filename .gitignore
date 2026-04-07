@@ -1,0 +1,23 @@
+# Build output
+target/
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Mac OS
+.DS_Store
+
+# Local workspace folder
+workspace/
+
+# Test output files
+test-case-result.txt
