@@ -20,8 +20,13 @@ No database installation needed — H2 in-memory database is embedded and starts
 ## How to Run
 
 ```bash
+# Clone the repo
+git clone https://github.com/akshay-champavat/library-management-demo-interview.git
+
+# Navigate into the project
+cd library-management-demo-interview
+
 # Start the application
-cd library-api
 mvn spring-boot:run
 ```
 
